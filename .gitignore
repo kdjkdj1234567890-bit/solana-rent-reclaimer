@@ -6,7 +6,6 @@ app/build/
 # Android
 local.properties
 *.keystore
-!rent-reclaimer-release.keystore
 
 # IDE
 .idea/
