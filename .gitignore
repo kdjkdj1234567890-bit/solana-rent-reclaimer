@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android
+local.properties
+*.keystore
+!rent-reclaimer-release.keystore
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
